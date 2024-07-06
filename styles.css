@@ -1,0 +1,50 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bg-home {
+    background-image: url(/images/pic_1.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.hero-container {
+        background-size: cover;
+        color: white
+}
+
+.nav-text {
+    color: white !important;
+}
+
+.button {
+    background: #C271FF !important;
+    width: 162px;
+    height: 44px;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #c171ff50 !important;
+    color: white;
+  }
+
+.bg-purple {
+    background-color: #C271FF;
+}
+
+.bg-darkblue {
+    background-color: #071629;
+}
+
+.text-purple {
+    color: #C271FF;
+}
+
+.bg-pricing {
+    background-image: url(images/pic_2.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}

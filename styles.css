@@ -48,3 +48,10 @@ button:hover {
     background-position: top center;
     background-repeat: no-repeat;
 }
+
+.bg-courses {
+    background-image: url(images/pic_3.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
